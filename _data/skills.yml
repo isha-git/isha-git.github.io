@@ -1,33 +1,32 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
+  - item: C/C++
   - item: Python
+  - item: Java
+  - item: HTML
+  - item: CSS
+  - item: JavaScript
   - item: SQL
-  - item: R
+
+programming:
+  - item: Data Structures
+  - item: Algorithms
+  - item: Machine Learning
+  - item: Deep Learning
+  - item: Rest API
 
 frameworks:
-  - item: Ember & Glimmer
+  - item: Django
+  - item: Android Frmework
   - item: React
-  - item: Jekyll
   - item: Node
-  - item: D3
+  - item: Flutter
   - item: Wordpress
-  - item: Timber
+  - item: Flask
 
 tools:
   - item: Bash
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
   - item: MongoDB
-
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+  - item: Azure
+  - item: AWS
+  - item: Keras
