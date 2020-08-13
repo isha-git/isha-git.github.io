@@ -16,11 +16,11 @@ programming:
 
 frameworks:
   - item: Django
-  - item: Android Frmework
+  - item: Android Framework
   - item: React
   - item: Node
   - item: Flutter
-  - item: Wordpress
+  - item: WordPress
   - item: Flask
 
 tools:
