@@ -29,4 +29,3 @@ tools:
   - item: MongoDB
   - item: Azure
   - item: AWS
-  - item: Keras
