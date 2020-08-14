@@ -10,6 +10,7 @@ languages:
 programming:
   - item: Data Structures
   - item: Algorithms
+  - item: OOPs
   - item: Machine Learning
   - item: Deep Learning
   - item: Rest API
