@@ -27,6 +27,13 @@
     - thing: Firebase
     - thing: XML
 
+- name: Bicycle Classicals Club
+  url: https://bicycleclassicalsclub.wordpress.com
+  code: https://bicycleclassicalsclub.wordpress.com
+  description: My first WordPress site to showcase Wordpress skill.
+  used:
+    - thing: WordPress
+
 - name: Overwatch
   url: https://github.com/arnav-deep/Overwatch
   code: https://github.com/arnav-deep/Overwatch
