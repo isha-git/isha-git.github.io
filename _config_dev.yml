@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Arnav Deep
+title: Arnav Deep | Software Engineer and Data Scientist
+description: Focused on building solutions for billions.
+url: https://arnav-deep.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: arnavd4@gmail.com
+cover: https://arnav-deep.github.io/img/og.png
+logo: https://arnav-deep.github.io/img/emojis/technologist.png
+resume: https://bit.ly/arnav-deep-resume
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
-  - title: twitter
-    url: https://twitter.com/bchiang7
-  - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
-  - title: github
-    url: https://github.com/bchiang7
+    url: mailto:arnavd4@gmail.com
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/arnav-deep
+  - title: github
+    url: https://github.com/arnav-deep
+  - title: codechef
+    url: https://codechef.com/users/thrown
+  - title: twitter
+    url: https://twitter.com/arnavd4
+  - title: instagram
+    url: https://instagram.com/arnav_deep
 
 # Build settings
 markdown: kramdown
