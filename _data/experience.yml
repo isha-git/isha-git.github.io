@@ -1,16 +1,21 @@
-- company: Grroom
-  url: https://grroom.in/
-  time: Aug 2020 - Present
-  position: Machine Learning Engineer
+- company: Frinza
+  url: http://www.frinza.com/
+  time: Oct 2020 - Present
+  position: Full Stack Developer Intern
 
 - company: Madhya Pradesh Power Transmission Co. Ltd.
   url: http://www.mptransco.in/
   time: Jan 2020 - Present
   position: Full Stack Web Developer
+
+- company: Grroom
+  url: https://grroom.in/
+  time: Aug 2020 - Oct 2020
+  position: Machine Learning Engineer
   
 - company: MAA For India
   url: https://maaforindia.com/
-  time: Jul 2020 - Sep 2020
+  time: Jul 2020 - Aug 2020
   position: Full Stack Developer
 
 - company: LeadingIndia.AI
