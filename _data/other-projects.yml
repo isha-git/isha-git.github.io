@@ -55,11 +55,11 @@
     - thing: Weka
     - thing: Image Processing
  
- - name: Coping with Dyslexia
-   url: https://github.com/isha-git/App-for-Dyslexia
-   code: https://github.com/isha-git/App-for-Dyslexia
-   description: An Android app to facilitate learning among dislexics
-   used:
+- name: Coping with Dyslexia
+  url: https://github.com/isha-git/App-for-Dyslexia
+  code: https://github.com/isha-git/App-for-Dyslexia
+  description: An Android app to facilitate learning among dislexics
+  used:
     - thing: Advanced JAVA
     - thing: Android Studio
     - thing: SQLite
