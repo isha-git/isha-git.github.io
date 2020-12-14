@@ -1,26 +1,26 @@
 # Site settings
-name: Arnav Deep
-title: Arnav Deep | Software Engineer and Data Scientist
-description: Focused on building solutions for billions.
-url: https://arnav-deep.github.io/
+name: Isha Agrawal
+title: Isha Agrawal | Research Engineer
+description: Interested in Machine Learning and interdisciplinary research
+url: https://isha-git.github.io/
 baseurl: ''
-email: arnavd4@gmail.com
-cover: https://arnav-deep.github.io/img/og.png
-logo: https://arnav-deep.github.io/img/emojis/technologist.png
-resume: https://bit.ly/arnav-deep-resume
+email: ishaa3098@gmail.com
+#cover: https://arnav-deep.github.io/img/og.png
+logo: https://isha-git.github.io/img/emojis/technologist.png
+resume: https://drive.google.com/file/d/1XnbXPL1DRj16YYjys0XaLueWPrQQEFIe/view?usp=sharing
 social:
   - title: email
-    url: mailto:arnavd4@gmail.com
+    url: mailto:ishaa3098@gmail.com
   - title: linkedin
-    url: https://www.linkedin.com/in/arnav-deep
+    url: https://www.linkedin.com/in/isha1998
   - title: github
-    url: https://github.com/arnav-deep
-  - title: codechef
-    url: https://codechef.com/users/thrown
-  - title: twitter
-    url: https://twitter.com/arnavd4
-  - title: instagram
-    url: https://instagram.com/arnav_deep
+    url: https://github.com/isha-git
+#   - title: codechef
+#     url: https://codechef.com/users/thrown
+#   - title: twitter
+#     url: https://twitter.com/arnavd4
+#   - title: instagram
+#     url: https://instagram.com/arnav_deep
 
 # Build settings
 markdown: kramdown
