@@ -1,90 +1,66 @@
-- name: Leopard Detection
-  url: https://github.com/arnav-deep/leopard-detection
-  code: https://github.com/arnav-deep/leopard-detection
-  description: A Custom Object Detection using YOLOv3 to detect leopards from live video feed built as part of engineering design project.
+- name: Stock Market Prediction (Python, Keras)
+  url: https://github.com/isha-git/Stock-Data-Prediction
+  code: https://github.com/isha-git/Stock-Data-Prediction
+  description: Predicting various stock market parameters using a LSTM/GRU models
   used:
     - thing: Deep Learning
-    - thing: YOLO
-    - thing: Darkflow
+    - thing: Recurrent Neural Networks
     - thing: Python
+    - thing: Keras
 
-- name: English Topic Model
-  url: https://github.com/arnav-deep/EnglishTopicModel
-  code: https://github.com/arnav-deep/EnglishTopicModel
-  description: A generalised Topic Modelling tool using Latent Dirichlet Allocation (LDA) model ready to be used for any English dataset.
+- name: Detection and Estimation of Gaseous Wastes from Industries
+  description: Developing deep learning architectures for smoke segmentation and pollution estimation
+  used:
+    - thing: Deep Learning
+    - thing: Transfer Learning
+    - thing: Python
+    - thing: Keras
+    - thing: Deep Learning
+    - thing: VGG Image Annotator
+
+- name: Predicting Susceptibility to Alzheimer’s Disease
+  url: https://github.com/isha-git/Alzheimers-Disease
+  code: https://github.com/isha-git/Alzheimers-Disease
+  description: Classying disease-risk genes using Suport Vector Machines and Decision Trees
   used:
     - thing: Machine Learning
-    - thing: Gensim
     - thing: Python
 
-- name: SMStoDatabase
-  url: https://github.com/arnav-deep/SMStoDatabase
-  code: https://github.com/arnav-deep/SMStoDatabase
-  description: An app to perform CRUD on Firebase database using SMS as a trigger.
+- name: Fusion
+  url: https://github.com/isha-git/Fusion
+  code: https://github.com/isha-git/Fusion
+  description: Automation of various functionalities, modules and tasks for the Indian Institute of Information Technology, Jabalpur, India
   used:
-    - thing: Android Studio
-    - thing: Java
-    - thing: Firebase
-    - thing: XML
+    - thing: Django
+    - thing: JavaScript
+    - thing: mySQL
 
-- name: Bicycle Classicals Club
-  url: https://bicycleclassicalsclub.wordpress.com
-  code: https://bicycleclassicalsclub.wordpress.com
-  description: My first WordPress site to showcase Wordpress skill.
+- name: FoodFeed
+  url: https://github.com/isha-git/Cafeteria-Management
+  code: https://github.com/isha-git/Cafeteria-Management
+  description: A centralized system for cafeteria and food courts developed to replace manual recordkeepipng at the Indian Institute of Information Technology, Jabalpur, India
   used:
-    - thing: WordPress
+    - thing: Bootstrap
+    - thing: mySQL
+    - thing: HTML
+    - thing: PHP
 
-- name: Overwatch
-  url: https://github.com/arnav-deep/Overwatch
-  code: https://github.com/arnav-deep/Overwatch
-  description: An android app connected to an Arduino based IoT system for the security of children to get their current location, pulse rate and temperature.
-  used:
-    - thing: Android Studio
-    - thing: Java
-    - thing: Firebase
-    - thing: XML
-
-- name: Distributions Package
-  url: https://pypi.org/project/distributions-throwntech
-  code: https://github.com/arnav-deep/distributions-package
-  description: Gaussian and Binomial Distribution Python package available on <a class="underline-link" href="https://pypi.org/project/distributions-throwntech">Pypi</a>, ready to be installed with pip.
+- name: GreenGo
+  url: https://github.com/isha-git/GreenGo
+  code: https://github.com/isha-git/GreenGo
+  description: An autonomous system to control road congestions and eliminate the need for Greed corridors
   used:
     - thing: Python
-
-- name: Grocery Finder
-  url: https://github.com/arnav-deep/GroceryFinder
-  code: https://github.com/arnav-deep/GroceryFinder
-  description: An Android app to find grocery in some cities using data from Google by Places API.
-  used:
-    - thing: Android Studio
-    - thing: Java
-    - thing: Google Places API
     - thing: XML
-
-- name: Sign Language
-  url: http://github.com/arnav-deep/SignLanguage
-  code: https://github.com/arnav-deep/SignLanguage
-  description: A Deep Learning model using Convolutional Neural Network for American Sign Language (ASL) with 98.5% accuracy.
-  used:
-    - thing: Deep Learning
-    - thing: Keras
-    - thing: Python
-
-- name: Building Height
-  url: https://github.com/arnav-deep/BuildingHeight
-  code: https://github.com/arnav-deep/BuildingHeight
-  description: An Image Processing tool to Estimate Building Height from Shadow of a building in a VHR Satellite image implemented from this <a class="underline-link" href="https://ieeexplore.ieee.org/document/8126256">paper</a>.
-  used:
-    - thing: MATLAB
+    - thing: Weka
     - thing: Image Processing
-
-# - name: ScreenTime 2.0
-#   url: https://play.google.com/store/apps/details?id=com.starry.management
-#   description: App-blocking feature on <a class="underline-link" href="https://starry.com/station" target="_blank">Starry Station</a> that provides functionality for users to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their mobile phones. Learn more about ScreenTime 2.0 on <a class="underline-link" href="https://www.producthunt.com/tech/screentime-for-starry-station" target="_blank">Product Hunt</a> and the <a class="underline-link" href="https://blog.starry.com/whats-new-screentime-just-got-better-for-parents/" target="_blank">Starry Blog</a>.
-#   used:
-#   - thing: JavaScript
-#   - thing: CSS
-#   - thing: Handlebars
-#   - thing: Backbone
-#   - thing: Marionette
-#   - thing: Cordova
+ 
+ - name: Coping with Dyslexia
+  url: https://github.com/isha-git/App-for-Dyslexia
+  code: https://github.com/isha-git/App-for-Dyslexia
+  description: An Android app to facilitate learning among dislexics
+  used:
+    - thing: Advanced JAVA
+    - thing: Android Studio
+    - thing: SQLite
+    - thing: HTML
