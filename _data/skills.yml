@@ -4,11 +4,11 @@ languages:
   - item: R
   - item: C
   - item: JAVA
-  - item: mySQL
+  - item: MySQL
 
 skills:
   - item: Machine Learning
-  - item: Image Processing
+  - item: Computer Vision
   - item: Data Visualization
   - item: Business Analytics
   - item: Data Structures
