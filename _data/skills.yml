@@ -1,32 +1,22 @@
 languages:
-  - item: C/C++
   - item: Python
-  - item: Java
-  - item: HTML
-  - item: CSS
-  - item: JavaScript
-  - item: SQL
+  - item: MATLAB
+  - item: R
+  - item: C
+  - item: JAVA
+  - item: mySQL
 
-programming:
+skills:
+  - item: Machine Learning
+  - item: Image Processing
+  - item: Data Visualization
+  - item: Business Analytics
   - item: Data Structures
   - item: Algorithms
-  - item: OOPs
-  - item: Machine Learning
-  - item: Deep Learning
-  - item: Rest API
 
-frameworks:
-  - item: Django
-  - item: Android Framework
-  - item: React
-  - item: Node
-  - item: Flutter
-  - item: WordPress
-  - item: Flask
-
-tools:
-  - item: Bash
-  - item: Git & Github
-  - item: MongoDB
-  - item: Azure
-  - item: AWS
+mathematics:
+  - item: Probability
+  - item: Statistics
+  - item: Stochastic Processes
+  - item: Calculus
+  - item: Linear Algebra
