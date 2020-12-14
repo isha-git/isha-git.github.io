@@ -33,7 +33,7 @@
   used:
     - thing: Django
     - thing: JavaScript
-    - thing: mySQL
+    - thing: MySQL
 
 - name: FoodFeed
   url: https://github.com/isha-git/Cafeteria-Management
@@ -41,7 +41,7 @@
   description: A centralized system for cafeteria and food courts developed to replace manual recordkeepipng at the Indian Institute of Information Technology, Jabalpur, India
   used:
     - thing: Bootstrap
-    - thing: mySQL
+    - thing: MySQL
     - thing: HTML
     - thing: PHP
 
