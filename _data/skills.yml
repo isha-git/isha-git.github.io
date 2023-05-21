@@ -1,17 +1,18 @@
 languages:
   - item: Python
   - item: PyTorch, Keras, Tensorflow
-  - item: R
-  - item: MATLAB
-  - item: C
-  - item: SQL
   - item: Google Cloud Platform, Slurm
+  - item: SQL
+  - item: R
+  - item: C
+  - item: MATLAB
 
 skills:
   - item: Machine Learning
   - item: Natural Language Processing
   - item: Business Analytics
   - item: Multivariate Data Analysis
+  - item: Cyber Data Analytics
   - item: Bioinformatics
 
 
