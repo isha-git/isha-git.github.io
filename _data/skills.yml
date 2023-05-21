@@ -1,22 +1,32 @@
-languages:
+Technical Skills:
   - item: Python
-  - item: MATLAB
+  - item: PyTorch, Keras, Tensorflow
   - item: R
+  - item: MATLAB
   - item: C
-  - item: JAVA
-  - item: MySQL
+  - item: SQL
+  - item: Google Cloud Platform, Slurm
 
-skills:
+Concepts:
   - item: Machine Learning
-  - item: Computer Vision
-  - item: Data Visualization
+  - item: Natural Language Processing
   - item: Business Analytics
-  - item: Data Structures
-  - item: Algorithms
+  - item: Multivariate Data Analysis
+  - item: Evolutionary Algorithms
+  - item: Cyber Data Analytics
+  - item: Sequence-based Bioinformatics
+  - item: Network-based Bioinformatics
 
-mathematics:
-  - item: Probability
-  - item: Statistics
-  - item: Stochastic Processes
-  - item: Calculus
-  - item: Linear Algebra
+
+#   - item: Computer Vision
+#   - item: Data Visualization
+#   - item: Business Analytics
+#   - item: Data Structures
+#   - item: Algorithms
+
+# mathematics:
+#   - item: Probability
+#   - item: Statistics
+#   - item: Stochastic Processes
+#   - item: Calculus
+#   - item: Linear Algebra
