@@ -8,11 +8,10 @@ languages:
   - item: Google Cloud Platform, Slurm
 
 skills:
-  - item: Machine Learning, Natural Language Processing
+  - item: Machine Learning
+  - item: Natural Language Processing
   - item: Business Analytics
   - item: Multivariate Data Analysis
-  - item: Evolutionary Algorithms
-  - item: Cyber Data Analytics
   - item: Bioinformatics
 
 
