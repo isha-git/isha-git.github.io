@@ -1,4 +1,4 @@
-Technical Skills:
+languages:
   - item: Python
   - item: PyTorch, Keras, Tensorflow
   - item: R
@@ -7,7 +7,7 @@ Technical Skills:
   - item: SQL
   - item: Google Cloud Platform, Slurm
 
-Concepts:
+skills:
   - item: Machine Learning
   - item: Natural Language Processing
   - item: Business Analytics
