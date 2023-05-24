@@ -3,7 +3,7 @@
   authors: <b>Isha Agrawal</b>, Teena Sharma, Nishchal K. Verma
   journal: 
 
-- name: CSIDNet- Compact single image dehazing network for outdoor scene enhancement
+- name: "CSIDNet: Compact single image dehazing network for outdoor scene enhancement"
   url: https://link.springer.com/article/10.1007/s11042-020-09496-z
   authors: Teena Sharma, <b>Isha Agrawal</b>, Nishchal K. Verma
   journal: Multimedia Tools and Applications
