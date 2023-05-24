@@ -1,5 +1,5 @@
 languages:
-  - item: Python
+  - item: Python, R
   - item: PyTorch, Keras, Tensorflow
   - item: Google Cloud Platform, Slurm
   - item: SQL
