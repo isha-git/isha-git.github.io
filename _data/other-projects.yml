@@ -1,12 +1,30 @@
-- name: Stock Market Prediction
-  url: https://github.com/isha-git/Stock-Data-Prediction
-  code: https://github.com/isha-git/Stock-Data-Prediction
-  description: Predicting various stock market parameters using a LSTM/GRU models
+# - name: Stock Market Prediction
+#   url: https://github.com/isha-git/Stock-Data-Prediction
+#   code: https://github.com/isha-git/Stock-Data-Prediction
+#   description: Predicting various stock market parameters using a LSTM/GRU models
+#   used:
+#     - thing: Deep Learning
+#     - thing: Recurrent Neural Networks
+#     - thing: Python
+#     - thing: Keras
+
+- name: Predicting Susceptibility to Alzheimer’s Disease
+  url: https://github.com/isha-git/Alzheimers-Disease
+  code: https://github.com/isha-git/Alzheimers-Disease
+  description: Classying disease-risk genes using Suport Vector Machines and Decision Trees
   used:
-    - thing: Deep Learning
-    - thing: Recurrent Neural Networks
+    - thing: Machine Learning
     - thing: Python
-    - thing: Keras
+
+- name: Coping with Dyslexia
+  url: https://github.com/isha-git/App-for-Dyslexia
+  code: https://github.com/isha-git/App-for-Dyslexia
+  description: An Android app to facilitate learning among dyslexics
+  used:
+    - thing: Advanced JAVA
+    - thing: Android Studio
+    - thing: SQLite
+    - thing: HTML
 
 - name: Detection and Estimation of Gaseous Wastes from Industries
   description: Developing deep learning architectures for smoke segmentation and pollution estimation
@@ -18,14 +36,6 @@
     - thing: Deep Learning
     - thing: VGG Image Annotator
 
-- name: Predicting Susceptibility to Alzheimer’s Disease
-  url: https://github.com/isha-git/Alzheimers-Disease
-  code: https://github.com/isha-git/Alzheimers-Disease
-  description: Classying disease-risk genes using Suport Vector Machines and Decision Trees
-  used:
-    - thing: Machine Learning
-    - thing: Python
-
 - name: Fusion
   url: https://github.com/isha-git/Fusion
   code: https://github.com/isha-git/Fusion
@@ -35,32 +45,24 @@
     - thing: JavaScript
     - thing: MySQL
 
-- name: FoodFeed
-  url: https://github.com/isha-git/Cafeteria-Management
-  code: https://github.com/isha-git/Cafeteria-Management
-  description: A centralized system for cafeteria and food courts developed to replace manual recordkeeping at the Indian Institute of Information Technology, Jabalpur, India
-  used:
-    - thing: Bootstrap
-    - thing: MySQL
-    - thing: HTML
-    - thing: PHP
+# - name: FoodFeed
+#   url: https://github.com/isha-git/Cafeteria-Management
+#   code: https://github.com/isha-git/Cafeteria-Management
+#   description: A centralized system for cafeteria and food courts developed to replace manual recordkeeping at the Indian Institute of Information Technology, Jabalpur, India
+#   used:
+#     - thing: Bootstrap
+#     - thing: MySQL
+#     - thing: HTML
+#     - thing: PHP
 
-- name: GreenGo
-  url: https://github.com/isha-git/GreenGo
-  code: https://github.com/isha-git/GreenGo
-  description: An autonomous system to control road congestions and eliminate the need for Green corridors
-  used:
-    - thing: Python
-    - thing: XML
-    - thing: Weka
-    - thing: Image Processing
+# - name: GreenGo
+#   url: https://github.com/isha-git/GreenGo
+#   code: https://github.com/isha-git/GreenGo
+#   description: An autonomous system to control road congestions and eliminate the need for Green corridors
+#   used:
+#     - thing: Python
+#     - thing: XML
+#     - thing: Weka
+#     - thing: Image Processing
  
-- name: Coping with Dyslexia
-  url: https://github.com/isha-git/App-for-Dyslexia
-  code: https://github.com/isha-git/App-for-Dyslexia
-  description: An Android app to facilitate learning among dyslexics
-  used:
-    - thing: Advanced JAVA
-    - thing: Android Studio
-    - thing: SQLite
-    - thing: HTML
+
